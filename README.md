@@ -11,6 +11,4 @@
 💞️ I’m looking forward to collaborate on a project for the Master 
 
 📫 How to reach me? 🤷‍♂️ >>> well, just ask me 😉
-
-![MedbreakerMedatGIF](https://github.com/user-attachments/assets/865bd30f-89fb-4fbf-a159-c81c10a115ca)
 -->
