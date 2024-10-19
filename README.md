@@ -12,6 +12,5 @@
 
 📫 How to reach me? 🤷‍♂️ >>> well, just ask me 😉
 
-![JuntosMejorarDemocracyrisingGIF](https://github.com/user-attachments/assets/5b61f5e1-85b7-46c6-8b19-ab78b53fe32e)
-
+![MedbreakerMedatGIF](https://github.com/user-attachments/assets/865bd30f-89fb-4fbf-a159-c81c10a115ca)
 -->
