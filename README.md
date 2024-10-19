@@ -4,7 +4,7 @@
 
 👀 I’m interested in learn and practice IT stuff
 
-🌱 I’m currently learning Git/GitHub - Hugging Face - Python - SQL >>> just basics (finish 2024)
+🌱 I’m currently learning Git/GitHub - Hugging Face - Python - SQL >>> just basics @ IMPELIA/Barcelona (finish 2024)
 
 🤦🏻‍♂️ and I am participating in a kind of Master AI & Data Science @ IMPELIA/Barcelona (finish 2025)
 
