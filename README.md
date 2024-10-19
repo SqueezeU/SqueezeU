@@ -10,7 +10,7 @@
 
 💞️ I’m looking forward to collaborate on a project for the Master 
 
-📫 How to reach me >>> just ask me
+📫 How to reach me? 🤷‍♂️ >>> well, just ask me 😉
 
 ![RumbleWwfGIF](https://github.com/user-attachments/assets/d2de24b0-cde0-45b7-9aa7-3d834fdfa081)
 
