@@ -4,10 +4,16 @@
 
 👀 I’m interested in learn and practice IT stuff
 
-🌱 I’m currently learning Git/GitHub, Hugging Face, Python, SQL, AI & Data Science
+🌱 I’m currently learning Git/GitHub - Hugging Face - Python - SQL >>> just basics (finish 2024)
 
-💞️ I’m looking to collaborate on a project for the Master...
+🤦🏻‍♂️ and I am participating in a kind of Master AI & Data Science @ IMPELIA/Barcelona (finish 2025)
+
+💞️ I’m looking forward to collaborate on a project for the Master 
 
 📫 How to reach me >>> just ask me
+
+![RumbleWwfGIF](https://github.com/user-attachments/assets/d2de24b0-cde0-45b7-9aa7-3d834fdfa081)
+
+
 
 -->
