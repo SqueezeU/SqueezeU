@@ -1,5 +1,3 @@
-## Hi there 👋
-
 👋 Hi, I’m @SqueezeU - in RL Errol, a German living in Barcelona/Spain
 
 👀 I’m interested in learn and practice IT stuff
@@ -13,5 +11,4 @@
 📫 How to reach me? 🤷‍♂️ >>> well, just ask me 😉
 
 ![TeamworkCollaborationGIF](https://github.com/user-attachments/assets/ea40ff9d-3fbc-47d1-8f1d-26a3b198c46b)
-
 -->
