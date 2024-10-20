@@ -11,4 +11,7 @@
 💞️ I’m looking forward to collaborate on a project for the Master 
 
 📫 How to reach me? 🤷‍♂️ >>> well, just ask me 😉
+
+![TeamworkCollaborationGIF](https://github.com/user-attachments/assets/ea40ff9d-3fbc-47d1-8f1d-26a3b198c46b)
+
 -->
