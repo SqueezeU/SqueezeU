@@ -17,7 +17,8 @@ Data Analyst focused on SQL, Python and business-driven data analysis.
 
 - 🔍 [SQL Exploratory Data Analysis](https://github.com/SqueezeU/SQL-Exploratory-Data-Analysis)  
 - 📊 [Data Analysis & Power BI](https://github.com/SqueezeU/Errol-Dickl-Portfolio)  
-- 🤖 [AI & Machine Learning Projects](https://github.com/SqueezeU/Errol-Dickl-Portfolio)  
+- 🤖 [AI & Machine Learning Projects](https://github.com/SqueezeU/Errol-Dickl-Portfolio)
+- 🔍 [Data-Warehouse Project](https://github.com/SqueezeU/SQL-DATA_WAREHOUSE_Project)  
 
 ---
 
