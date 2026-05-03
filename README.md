@@ -24,7 +24,7 @@ Data Analyst focused on SQL, Python and business-driven data analysis.
 
 ## 🛠️ Tools
 
-Python · SQL · Power BI · GitHub · AI Tools  
+Python · SQL ·  AI Tools · GitHub · Power BI
 
 ---
 
