@@ -1,6 +1,6 @@
 # Hi, I'm Errol 👋
 
-Data Analyst focused on SQL, Python and business-driven data analysis.
+Data Scientist & ML Engineer | Building AI solutions with Python, SQL and business-driven insights
 
 ---
 
@@ -17,8 +17,8 @@ Data Analyst focused on SQL, Python and business-driven data analysis.
 
 - 🔍 [Data Warehouse Project](https://github.com/SqueezeU/SQL-DATA_WAREHOUSE_Project) 
 - 🔍 [SQL Exploratory Data Analysis](https://github.com/SqueezeU/SQL-Exploratory-Data-Analysis)
-- 🤖 [AI & Machine Learning Projects](https://github.com/SqueezeU/Errol-Dickl-Portfolio)
-- 📊 [Data Analysis & Power BI](https://github.com/SqueezeU/Errol-Dickl-Portfolio)  
+- 🤖 [AI & Machine Learning Projects](https://github.com/SqueezeU/Applied-AI-DataScience-Projects)
+- 📊 [Data Analysis & Power BI](https://github.com/SqueezeU/Applied-AI-DataScience-Projects)  
 
 ---
 
